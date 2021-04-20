@@ -1,4 +1,5 @@
-.mydiv{
-    background-color: aqua;
-    color: darkred;
+.alert alert-primary{
+    height: 20px;
+    background-color: darkred;
+    color: whitesmoke;
 }
