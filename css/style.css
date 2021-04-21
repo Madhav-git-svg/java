@@ -1,5 +1,7 @@
-.alert alert-primary{
-    height: 20px;
-    background-color: darkred;
-    color: whitesmoke;
+.mdiv{
+    background-color: aqua;
+    color: darkred;
+    height: 30px;
+    width: 100%;
+   
 }
